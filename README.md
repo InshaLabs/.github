@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/InshaLabs/landing/main/public/favicon.svg" alt="InshaLabs" width="96" />
+<img src="https://raw.githubusercontent.com/InshaLabs/.github/public/logo.svg" alt="InshaLabs" width="96" />
 
 # InshaLabs
 
